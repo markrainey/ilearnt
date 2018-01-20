@@ -6,18 +6,22 @@
     <description>Recent content on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 20 Jan 2018 16:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 16:57:14 +0000</lastBuildDate>
     
 	<atom:link href="https://markrainey.github.io/ilearnt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About ILearnt</title>
-      <link>https://markrainey.github.io/ilearnt/post/about/</link>
-      <pubDate>Sat, 20 Jan 2018 16:37:39 +0000</pubDate>
+      <title>Getting started with the Hugo static site generator</title>
+      <link>https://markrainey.github.io/ilearnt/post/hugo/</link>
+      <pubDate>Sat, 20 Jan 2018 16:57:14 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/post/about/</guid>
-      <description>Things I have learnt and may be useful in future or to someone else :)</description>
+      <guid>https://markrainey.github.io/ilearnt/post/hugo/</guid>
+      <description>This blog is being powered by a static content generator called Hugo and hosted on GitHub Pages. Getting Hugo up and running was relatively easy. Download the relevant version and installation was just copying it to a folder.
+Once installed, create a new site:
+​ hugo new site mySite
+In the site folder edit the config.toml file to change the baseUrl, the language and the title.
+Use git to clone a theme from the available themes to a folder under the themes folder in your site.</description>
     </item>
     
   </channel>
