@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ILearnt</title>
+    <link>https://markrainey.github.io/ilearnt/post/</link>
+    <description>Recent content in Posts on ILearnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Jan 2018 16:37:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://markrainey.github.io/ilearnt/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About ILearnt</title>
+      <link>https://markrainey.github.io/ilearnt/post/about/</link>
+      <pubDate>Sat, 20 Jan 2018 16:37:39 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/post/about/</guid>
+      <description>Things I have learnt and may be useful in future or to someone else :)</description>
+    </item>
+    
+  </channel>
+</rss>
