@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://markrainey.github.io/ilearnt/post/35blockchain/</loc>
+    <lastmod>2018-01-22T20:57:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/post/amazonshop/</loc>
+    <lastmod>2018-01-22T18:57:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/post/pastit/</loc>
+    <lastmod>2018-01-22T16:57:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://markrainey.github.io/ilearnt/post/hugo/</loc>
     <lastmod>2018-01-20T16:57:14+00:00</lastmod>
   </url>
@@ -14,13 +29,13 @@
   
   <url>
     <loc>https://markrainey.github.io/ilearnt/</loc>
-    <lastmod>2018-01-20T16:57:14+00:00</lastmod>
+    <lastmod>2018-01-22T20:57:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://markrainey.github.io/ilearnt/post/</loc>
-    <lastmod>2018-01-20T16:57:14+00:00</lastmod>
+    <lastmod>2018-01-22T20:57:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
