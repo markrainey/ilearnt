@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://markrainey.github.io/ilearnt/post/tailorbrands/</loc>
+    <lastmod>2018-01-23T09:16:07+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://markrainey.github.io/ilearnt/post/35blockchain/</loc>
     <lastmod>2018-01-22T20:57:14+00:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>https://markrainey.github.io/ilearnt/</loc>
-    <lastmod>2018-01-22T20:57:14+00:00</lastmod>
+    <lastmod>2018-01-23T09:16:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://markrainey.github.io/ilearnt/post/</loc>
-    <lastmod>2018-01-22T20:57:14+00:00</lastmod>
+    <lastmod>2018-01-23T09:16:07+00:00</lastmod>
     <priority>0</priority>
   </url>
   

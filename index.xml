@@ -6,10 +6,19 @@
     <description>Recent content on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 22 Jan 2018 20:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 09:16:07 +0000</lastBuildDate>
     
 	<atom:link href="https://markrainey.github.io/ilearnt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tailor Brands</title>
+      <link>https://markrainey.github.io/ilearnt/post/tailorbrands/</link>
+      <pubDate>Tue, 23 Jan 2018 09:16:07 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/post/tailorbrands/</guid>
+      <description>I came across a link on Product Hunt to Tailor Brands who do automatic logo creation and branding. It is great to see them still doing well. I used them for my company logo, Sentio Ventures, shortly after they started in 2014!</description>
+    </item>
     
     <item>
       <title>Blockchain - what impact will it have?</title>
