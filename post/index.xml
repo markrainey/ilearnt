@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ILearnt</title>
+    <title>All Posts on ILearnt</title>
     <link>https://markrainey.github.io/ilearnt/post/</link>
-    <description>Recent content in Posts on ILearnt</description>
+    <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 24 Jan 2018 08:53:32 +0000</lastBuildDate>
