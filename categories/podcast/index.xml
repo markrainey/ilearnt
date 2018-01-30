@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on ILearnt</title>
+    <link>https://markrainey.github.io/ilearnt/categories/podcast/</link>
+    <description>Recent content in Podcast on ILearnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 30 Jan 2018 08:43:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://markrainey.github.io/ilearnt/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graphic Design for Films</title>
+      <link>https://markrainey.github.io/ilearnt/post/filmgraphicdesign/</link>
+      <pubDate>Tue, 30 Jan 2018 08:43:09 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/post/filmgraphicdesign/</guid>
+      <description>I listen to a lot of podcasts (probably 500+ a year) and one I make an extra effort to listen to every episode is 99% Invisible. It is &amp;ldquo;about all the thought that goes into the things we don’t think about — the unnoticed architecture and design that shape our world.&amp;rdquo;
+I was catching up on past episodes and came across one that made me think about a whole area that I had never considered but in hindsight seems obvious that someone needs to do it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,17 @@
   
   <url>
     <loc>https://markrainey.github.io/ilearnt/post/</loc>
-    <lastmod>2018-01-29T17:20:25+00:00</lastmod>
+    <lastmod>2018-01-30T13:03:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/post/hullcoin/</loc>
+    <lastmod>2018-01-30T13:03:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/post/filmgraphicdesign/</loc>
+    <lastmod>2018-01-30T08:43:09+00:00</lastmod>
   </url>
   
   <url>
@@ -48,18 +58,50 @@
   </url>
   
   <url>
-    <loc>https://markrainey.github.io/ilearnt/categories/</loc>
+    <loc>https://markrainey.github.io/ilearnt/categories/blockchain/</loc>
+    <lastmod>2018-01-30T13:03:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://markrainey.github.io/ilearnt/</loc>
+    <loc>https://markrainey.github.io/ilearnt/categories/business/</loc>
     <lastmod>2018-01-29T17:20:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://markrainey.github.io/ilearnt/tags/</loc>
+    <loc>https://markrainey.github.io/ilearnt/categories/</loc>
+    <lastmod>2018-01-30T13:03:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/categories/howto/</loc>
+    <lastmod>2018-01-20T16:57:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/</loc>
+    <lastmod>2018-01-30T13:03:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/categories/life/</loc>
+    <lastmod>2018-01-29T17:20:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/categories/podcast/</loc>
+    <lastmod>2018-01-30T08:43:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://markrainey.github.io/ilearnt/categories/technology/</loc>
+    <lastmod>2018-01-22T20:57:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   

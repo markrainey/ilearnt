@@ -6,9 +6,64 @@
     <description>Recent content in Categories on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Tue, 30 Jan 2018 13:03:42 +0000</lastBuildDate>
     
 	<atom:link href="https://markrainey.github.io/ilearnt/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://markrainey.github.io/ilearnt/categories/blockchain/</link>
+      <pubDate>Tue, 30 Jan 2018 13:03:42 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://markrainey.github.io/ilearnt/categories/business/</link>
+      <pubDate>Mon, 29 Jan 2018 17:20:25 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Howto</title>
+      <link>https://markrainey.github.io/ilearnt/categories/howto/</link>
+      <pubDate>Sat, 20 Jan 2018 16:57:14 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/categories/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://markrainey.github.io/ilearnt/categories/life/</link>
+      <pubDate>Mon, 29 Jan 2018 17:20:25 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://markrainey.github.io/ilearnt/categories/podcast/</link>
+      <pubDate>Tue, 30 Jan 2018 08:43:09 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://markrainey.github.io/ilearnt/categories/technology/</link>
+      <pubDate>Mon, 22 Jan 2018 20:57:14 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/categories/technology/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
