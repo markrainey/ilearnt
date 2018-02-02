@@ -6,10 +6,21 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jan 2018 13:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 15:46:32 +0000</lastBuildDate>
     
 	<atom:link href="https://markrainey.github.io/ilearnt/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Professionals v Amateurs</title>
+      <link>https://markrainey.github.io/ilearnt/post/professional/</link>
+      <pubDate>Fri, 02 Feb 2018 15:46:32 +0000</pubDate>
+      
+      <guid>https://markrainey.github.io/ilearnt/post/professional/</guid>
+      <description>This article defines the difference between a professional developer and an amateur as:
+A professional always does everything necessary to complete a job. An amateur sometimes chooses only the fun parts.
+It goes on further to say that the amateur only codes what they have been told; the professional bring &amp;ldquo;their full brain, experience and creativity&amp;rdquo;. To be professional is to go the extra mile, think about the work and deliver something that delivers what is needed (which is not necessarily what has been defined).</description>
+    </item>
     
     <item>
       <title>Crazy Socks</title>
