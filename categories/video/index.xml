@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on ILearnt</title>
+    <link>https://ilearnt.com/categories/video/</link>
+    <description>Recent content in Video on ILearnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 03 Feb 2018 07:46:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://ilearnt.com/categories/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ma’agalim - Jane Bordeaux</title>
+      <link>https://ilearnt.com/post/maagalim/</link>
+      <pubDate>Sat, 03 Feb 2018 07:46:40 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/maagalim/</guid>
+      <description>This is a beautiful music video. Watch it all the way through and carefully watch what happens to some of the characters.
+Links
+Ma’agalim - Jane Bordeaux</description>
+    </item>
+    
+  </channel>
+</rss>
