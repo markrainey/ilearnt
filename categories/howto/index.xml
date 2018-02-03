@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Howto on ILearnt</title>
-    <link>https://markrainey.github.io/ilearnt/categories/howto/</link>
+    <link>https://ilearnt.com/categories/howto/</link>
     <description>Recent content in Howto on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 20 Jan 2018 16:57:14 +0000</lastBuildDate>
     
-	<atom:link href="https://markrainey.github.io/ilearnt/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ilearnt.com/categories/howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started with the Hugo static site generator</title>
-      <link>https://markrainey.github.io/ilearnt/post/hugo/</link>
+      <link>https://ilearnt.com/post/hugo/</link>
       <pubDate>Sat, 20 Jan 2018 16:57:14 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/post/hugo/</guid>
+      <guid>https://ilearnt.com/post/hugo/</guid>
       <description>This blog is being powered by a static content generator called Hugo and hosted on GitHub Pages. Getting Hugo up and running was relatively easy. Download the relevant version and installation was just copying it to a folder.
 Once installed, create a new site:
 ​ hugo new site mySite

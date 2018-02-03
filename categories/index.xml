@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ILearnt</title>
-    <link>https://markrainey.github.io/ilearnt/categories/</link>
+    <link>https://ilearnt.com/categories/</link>
     <description>Recent content in Categories on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 30 Jan 2018 13:03:42 +0000</lastBuildDate>
     
-	<atom:link href="https://markrainey.github.io/ilearnt/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ilearnt.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blockchain</title>
-      <link>https://markrainey.github.io/ilearnt/categories/blockchain/</link>
+      <link>https://ilearnt.com/categories/blockchain/</link>
       <pubDate>Tue, 30 Jan 2018 13:03:42 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/categories/blockchain/</guid>
+      <guid>https://ilearnt.com/categories/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Business</title>
-      <link>https://markrainey.github.io/ilearnt/categories/business/</link>
+      <link>https://ilearnt.com/categories/business/</link>
       <pubDate>Tue, 30 Jan 2018 13:03:42 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/categories/business/</guid>
+      <guid>https://ilearnt.com/categories/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Howto</title>
-      <link>https://markrainey.github.io/ilearnt/categories/howto/</link>
+      <link>https://ilearnt.com/categories/howto/</link>
       <pubDate>Sat, 20 Jan 2018 16:57:14 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/categories/howto/</guid>
+      <guid>https://ilearnt.com/categories/howto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>https://markrainey.github.io/ilearnt/categories/life/</link>
+      <link>https://ilearnt.com/categories/life/</link>
       <pubDate>Mon, 29 Jan 2018 17:20:25 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/categories/life/</guid>
+      <guid>https://ilearnt.com/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
-      <link>https://markrainey.github.io/ilearnt/categories/podcast/</link>
+      <link>https://ilearnt.com/categories/podcast/</link>
       <pubDate>Tue, 30 Jan 2018 08:43:09 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/categories/podcast/</guid>
+      <guid>https://ilearnt.com/categories/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>https://markrainey.github.io/ilearnt/categories/technology/</link>
+      <link>https://ilearnt.com/categories/technology/</link>
       <pubDate>Fri, 02 Feb 2018 15:46:32 +0000</pubDate>
       
-      <guid>https://markrainey.github.io/ilearnt/categories/technology/</guid>
+      <guid>https://ilearnt.com/categories/technology/</guid>
       <description></description>
     </item>
     
