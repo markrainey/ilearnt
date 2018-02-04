@@ -6,10 +6,20 @@
     <description>Recent content in Technology on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 02 Feb 2018 15:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2018 21:05:42 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TP-Link RE650</title>
+      <link>https://ilearnt.com/post/re650/</link>
+      <pubDate>Sun, 04 Feb 2018 21:05:42 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/re650/</guid>
+      <description>I had a very unusual setup for the network for my office. The office is situated a floor above and at the opposite end of the house to where the main router is located. A fully wired connection is not an option at the moment due to concrete floors and limited access to roof voids.
+Previously this meant using a wireless extender into the room above the router and then using HomePlugs to connect to the office.</description>
+    </item>
     
     <item>
       <title>Professionals v Amateurs</title>
