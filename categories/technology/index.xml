@@ -6,10 +6,20 @@
     <description>Recent content in Technology on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Feb 2018 21:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 08:10:08 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making Technology Less Manipulative</title>
+      <link>https://ilearnt.com/post/technologymanipulative/</link>
+      <pubDate>Wed, 14 Feb 2018 08:10:08 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/technologymanipulative/</guid>
+      <description>This was an excellent podcast on the ethics behind some of the decisions being made about technology today. The whole talk is excellent and thought provoking however for me one part (about 27 minutes in) stood out:
+&amp;ldquo;When we think about AI we have to remember you know when you point the AI system at chess, right, first it kind of wiggles around and it makes some kind of funny looking moves and then it starts making some smart moves as it gets better and then it makes some surprisingly smart moves and then it beats Garry Kasparov.</description>
+    </item>
     
     <item>
       <title>Smart glasses you might actually wear</title>
