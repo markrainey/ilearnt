@@ -6,10 +6,21 @@
     <description>Recent content in Technology on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 14 Feb 2018 08:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2018 07:11:50 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How do crypto-currencies work?</title>
+      <link>https://ilearnt.com/post/howdocryptocurrencieswork/</link>
+      <pubDate>Sat, 17 Feb 2018 07:11:50 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/howdocryptocurrencieswork/</guid>
+      <description>A very simple introduction to how Bitcoin works &amp;hellip; using a stuffed penguin!
+Links
+Bitcoin explained: How do crypto-currencies work?</description>
+    </item>
     
     <item>
       <title>Making Technology Less Manipulative</title>
