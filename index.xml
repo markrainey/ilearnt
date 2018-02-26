@@ -6,10 +6,21 @@
     <description>Recent content on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 20 Feb 2018 21:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 18:15:23 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reducing the team size to deliver</title>
+      <link>https://ilearnt.com/post/reducingteamsize/</link>
+      <pubDate>Mon, 26 Feb 2018 18:15:23 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/reducingteamsize/</guid>
+      <description>A project was struggling to deliver in time and the project manager resolved it by reducing the team size where the typical approach is to increase the team size. This decision was based on the overhead of communication and Brooks Law.
+Links
+Applying Brooks Law</description>
+    </item>
     
     <item>
       <title>Developer Platforms Must Listen to Developers to Grow</title>
