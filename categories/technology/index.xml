@@ -6,10 +6,19 @@
     <description>Recent content in Technology on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 26 Feb 2018 18:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 14:55:46 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Code Assistant</title>
+      <link>https://ilearnt.com/post/aicodeassistant/</link>
+      <pubDate>Mon, 05 Mar 2018 14:55:46 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/aicodeassistant/</guid>
+      <description>Ubissoft have introduced a tool that &amp;ldquo;uses AI&amp;rdquo; to identify potential coding issues when the developer commits code. They claim it can detect a significant number of errors and even suggest solutions in some cases. There will always be some errors that it will not be able to identify, for example where the implementation doesn&amp;rsquo;t match the requirements, however this approach could have a significant impact on the amount of time spent debugging.</description>
+    </item>
     
     <item>
       <title>Reducing the team size to deliver</title>
