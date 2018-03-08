@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Mar 2018 14:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 08:12:54 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#39;Blockchain&#39; is meaningless</title>
+      <link>https://ilearnt.com/post/blockchainmeaningless/</link>
+      <pubDate>Thu, 08 Mar 2018 08:12:54 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/blockchainmeaningless/</guid>
+      <description>There seems to be no single clean definition of what &amp;ldquo;Blockchain&amp;rdquo; actually means. There are a lot of woolly statements, several of which are clearly either wrong or too narrowly focused. This article goes into some of the different definitions and why they are wrong and then the implications of this from a business but also a legal perspective.
+I personally think the definition by Mike Gault, CEO of Guardtime, is the closest:</description>
+    </item>
     
     <item>
       <title>AI Code Assistant</title>
