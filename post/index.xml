@@ -6,10 +6,21 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 08 Mar 2018 17:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Mar 2018 21:50:33 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pi</title>
+      <link>https://ilearnt.com/post/piday/</link>
+      <pubDate>Mon, 12 Mar 2018 21:50:33 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/piday/</guid>
+      <description>This page is devoted to maths and in particular pi. The answer to the second question on this page is unexpected and I love the energy the maths teacher brings to the class in the video. I had maths teachers but never one quite like this.
+Links
+Can you solve it? The Pi Day party starts here</description>
+    </item>
     
     <item>
       <title>Four minute mile</title>
