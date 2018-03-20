@@ -6,10 +6,19 @@
     <description>Recent content on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 17 Mar 2018 08:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 08:19:49 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Missing payment</title>
+      <link>https://ilearnt.com/post/missingpayment/</link>
+      <pubDate>Tue, 20 Mar 2018 08:19:49 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/missingpayment/</guid>
+      <description>I was due to be paid for some work earlier this month and the payment was from a foreign bank account into my account in GBP. The payment was made two weeks ago but never turned up in my account. After numerous phone calls with my bank and a lot of help from the CFO of the company I am working for (thanks Mario) we eventually managed to locate the payment.</description>
+    </item>
     
     <item>
       <title>Good Strategy/Bad Strategy by Richard P. Rumelt</title>
