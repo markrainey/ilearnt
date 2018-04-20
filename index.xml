@@ -6,10 +6,21 @@
     <description>Recent content on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Apr 2018 08:45:32 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 08:29:52 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evolution of the English Alphabet</title>
+      <link>https://ilearnt.com/post/englishalphabet/</link>
+      <pubDate>Fri, 20 Apr 2018 08:29:52 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/englishalphabet/</guid>
+      <description>A simple chart showing how the English alphabet evolved and how we ended up with what we have. It is particularly interesting how the Roman alphabet changed to become the English alphabet.
+Links
+Evolution of the English alphabet</description>
+    </item>
     
     <item>
       <title>Explaining distributed systems</title>
