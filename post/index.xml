@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 May 2018 07:13:33 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 07:47:04 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Mother Of All Demos</title>
+      <link>https://ilearnt.com/post/motherofalldemos/</link>
+      <pubDate>Tue, 15 May 2018 07:47:04 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/motherofalldemos/</guid>
+      <description>There is a video of a demonstration given by Doug Engelbart in 1968 which is commonly referred to as &amp;ldquo;The Mother Of All Demos&amp;rdquo;. In the demo, he demonstrates a lot of technologies for the first time together that are common place today and some which we haven&amp;rsquo;t even achieved properly now:
+ windows hypertext graphics efficient navigation and command input video conferencing the computer mouse word processing dynamic file linking revision control collaborative real-time editor (collaborative work)  One of the demonstrations that is particularly of interest to me is the chorded keyboard.</description>
+    </item>
     
     <item>
       <title>Working From Home Boosts Productivity</title>
