@@ -6,10 +6,20 @@
     <description>Recent content in Technology on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Apr 2018 08:45:32 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 May 2018 07:19:52 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image Processing Developments</title>
+      <link>https://ilearnt.com/post/imageprocessingdevelopments/</link>
+      <pubDate>Wed, 16 May 2018 07:19:52 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/imageprocessingdevelopments/</guid>
+      <description>There are some amazing things happening with image processing at the moment. I remember my graphics class at university 25 years ago and the primitive, by comparison to now, image processing algorithms we had to code. Oh how things have moved on.
+The first link below is some incredible work to make very low light images intelligible. The example results are quite incredible - making a viewable image out of an image that looks completely dark.</description>
+    </item>
     
     <item>
       <title>Explaining distributed systems</title>
