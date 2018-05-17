@@ -6,10 +6,21 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 16 May 2018 07:19:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 08:15:47 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>REST API Guidelines</title>
+      <link>https://ilearnt.com/post/restapiguidelines/</link>
+      <pubDate>Thu, 17 May 2018 08:15:47 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/restapiguidelines/</guid>
+      <description>This is here for future reference - a very good set of guidelines for REST APIs.
+Links
+Zalando RESTful API and Event Scheme Guidelines</description>
+    </item>
     
     <item>
       <title>Image Processing Developments</title>
