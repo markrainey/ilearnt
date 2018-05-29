@@ -6,10 +6,21 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 22 May 2018 07:18:26 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 07:41:49 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>There Is No Now</title>
+      <link>https://ilearnt.com/post/thereisnonow/</link>
+      <pubDate>Tue, 29 May 2018 07:41:49 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/thereisnonow/</guid>
+      <description>This paper is a discussion around the issues faced by distributed systems when dealing with time, ordering and failures. This is particularly relevant with the work I am doing at the moment designing a very large distributed system that will need to scale massively.
+It is remarkably readable and illustrates key issues and limitations in the field. It has already got me researching other areas mentioned in the paper.
+Links</description>
+    </item>
     
     <item>
       <title>A Hitchhiker’s Guide to Consensus Algorithms</title>
