@@ -6,10 +6,21 @@
     <description>Recent content in Technology on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 29 May 2018 07:41:49 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jun 2018 06:51:21 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network Developments</title>
+      <link>https://ilearnt.com/post/networkdevelopments/</link>
+      <pubDate>Fri, 29 Jun 2018 06:51:21 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/networkdevelopments/</guid>
+      <description>This article documents developments over the last ten years at all layers of the network stack. It also highlights how vulnerable the current Internet is.
+Links
+Another ten years later</description>
+    </item>
     
     <item>
       <title>There Is No Now</title>
