@@ -6,10 +6,19 @@
     <description>Recent content on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 29 Jun 2018 06:51:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 07:17:11 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GeoGuessr</title>
+      <link>https://ilearnt.com/post/geoguessr/</link>
+      <pubDate>Wed, 04 Jul 2018 07:17:11 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/geoguessr/</guid>
+      <description>This is a very simple idea for a quiz. It drops you in a random place somewhere in the world and you use Google StreetView to work out where it is. If you are lucky you end up in a town or city, sometimes you end up in the middle of nowhere. It is amazing how much you can work out by looking at the flora or a random signpost.</description>
+    </item>
     
     <item>
       <title>Network Developments</title>
