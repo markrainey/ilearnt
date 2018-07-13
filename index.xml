@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ILearnt</title>
+    <title>I learnt ...</title>
     <link>https://ilearnt.com/</link>
-    <description>Recent content on ILearnt</description>
+    <description>Recent content on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 13 Jul 2018 06:46:49 +0100</lastBuildDate>
