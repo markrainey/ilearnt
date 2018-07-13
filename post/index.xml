@@ -6,10 +6,29 @@
     <description>Recent content in All Posts on ILearnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Jul 2018 07:17:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 06:46:49 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abandoning Agile</title>
+      <link>https://ilearnt.com/post/developersshouldabandonagile/</link>
+      <pubDate>Fri, 13 Jul 2018 06:46:49 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/developersshouldabandonagile/</guid>
+      <description>I have worked with various flavours of &amp;ldquo;Agile&amp;rdquo; over numerous years. These have ranged from the very formal where everything is done by the book to more ad-hoc versions where different parts are cherry picked or in most cases done because people think they should be done.
+What is clear is that &amp;ldquo;Agile&amp;rdquo; has become more about the processes than about the results and the actual aims of the original manifesto.</description>
+    </item>
+    
+    <item>
+      <title>Abolish Performance Reviews</title>
+      <link>https://ilearnt.com/post/abolishperformancereviews/</link>
+      <pubDate>Fri, 13 Jul 2018 06:41:16 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/abolishperformancereviews/</guid>
+      <description>I have never been a fan of performance reviews. It may have been down to the way they were implemented at the places I worked however they never seemed to achieve what they were set out to do. The review would usually consist of going over the &amp;ldquo;achievements&amp;rdquo; for the past period and then setting a bunch of artificial goals for the next period. The only time these new goals were actually consulted was in the run up to the next review.</description>
+    </item>
     
     <item>
       <title>GeoGuessr</title>
