@@ -6,10 +6,22 @@
     <description>Recent content in Technology on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 13 Jul 2018 06:46:49 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 07:42:01 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scala &#43; Docker quickly</title>
+      <link>https://ilearnt.com/post/scaladocker/</link>
+      <pubDate>Fri, 20 Jul 2018 07:42:01 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/scaladocker/</guid>
+      <description>I am currently starting to learn Scala (to add to a myriad of other languages I have programmed in over my career). We are also in the process of &amp;ldquo;dockerizing&amp;rdquo; our application. So I wanted to try for myself getting a simple Scala application running in Docker.
+This page has a very simple guide to getting a &amp;ldquo;Hello World&amp;rdquo; application up and running.
+Links
+Getting Started With Docker, Scala &amp;amp; Sbt</description>
+    </item>
     
     <item>
       <title>Abandoning Agile</title>
