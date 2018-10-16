@@ -6,10 +6,33 @@
     <description>Recent content in All Posts on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 20 Jul 2018 07:42:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 17:08:32 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Without Doing</title>
+      <link>https://ilearnt.com/post/learningwithoutdoing/</link>
+      <pubDate>Tue, 16 Oct 2018 17:08:32 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/learningwithoutdoing/</guid>
+      <description>I am back on the learning Scala trail and it is clear that just reading books and articles or watching videos won&amp;rsquo;t cut it. It needs to be hands-on coding.
+This article highlights that some skills cannot be learnt without actual doing.
+Links
+Learning without doing</description>
+    </item>
+    
+    <item>
+      <title>The Secret History of Ctrl&#43;Alt&#43;Del</title>
+      <link>https://ilearnt.com/post/altcontroldelete/</link>
+      <pubDate>Tue, 16 Oct 2018 17:04:51 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/altcontroldelete/</guid>
+      <description>The background to why the famous &amp;ldquo;three finger salute&amp;rdquo; was chosen to be so difficult to do.
+Links
+The secret history of Ctrl+Alt+Del</description>
+    </item>
     
     <item>
       <title>Scala &#43; Docker quickly</title>

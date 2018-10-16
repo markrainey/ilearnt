@@ -6,10 +6,22 @@
     <description>Recent content in Life on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Jul 2018 07:17:11 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Oct 2018 17:08:32 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Without Doing</title>
+      <link>https://ilearnt.com/post/learningwithoutdoing/</link>
+      <pubDate>Tue, 16 Oct 2018 17:08:32 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/learningwithoutdoing/</guid>
+      <description>I am back on the learning Scala trail and it is clear that just reading books and articles or watching videos won&amp;rsquo;t cut it. It needs to be hands-on coding.
+This article highlights that some skills cannot be learnt without actual doing.
+Links
+Learning without doing</description>
+    </item>
     
     <item>
       <title>GeoGuessr</title>
