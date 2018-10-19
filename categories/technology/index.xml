@@ -6,10 +6,21 @@
     <description>Recent content in Technology on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 16 Oct 2018 17:04:51 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 16:45:07 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flight Rules for Git</title>
+      <link>https://ilearnt.com/post/flightrulesforgit/</link>
+      <pubDate>Fri, 19 Oct 2018 16:45:07 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/flightrulesforgit/</guid>
+      <description>This has a great summary of what to do when things go wrong when using Git. Added here so I know where to look in moments of panic.
+Links
+Flight Rules for Git</description>
+    </item>
     
     <item>
       <title>The Secret History of Ctrl&#43;Alt&#43;Del</title>
