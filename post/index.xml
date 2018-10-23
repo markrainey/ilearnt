@@ -6,10 +6,21 @@
     <description>Recent content in All Posts on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Oct 2018 16:45:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 14:00:15 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Setting up Github SSH</title>
+      <link>https://ilearnt.com/post/githubssh/</link>
+      <pubDate>Tue, 23 Oct 2018 14:00:15 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/githubssh/</guid>
+      <description>Just a reminder of the starting point for setting up SSH with Github so I don&amp;rsquo;t have to keep looking for it each time.
+Links
+Connecting to GitHub with SSH</description>
+    </item>
     
     <item>
       <title>Flight Rules for Git</title>
