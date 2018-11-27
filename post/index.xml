@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 26 Nov 2018 11:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Nov 2018 08:15:47 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Black Mirror - Technology Ethics</title>
+      <link>https://ilearnt.com/post/blackmirrortesting/</link>
+      <pubDate>Tue, 27 Nov 2018 08:15:47 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/blackmirrortesting/</guid>
+      <description>Nearly every technology that has been developed has been used for both good and bad. Developments that look like they could have a massive impact on civilization have usually also spun off a side effect that has a detrimental effect. This could be the latest technologies such as genetic engineering and artificial intelligence or older technologies such as the automobile.
+This article discusses using an exercise during the development of the technology to identify these wrong uses and how/if they can be alleviated.</description>
+    </item>
     
     <item>
       <title>Antilibrary</title>
