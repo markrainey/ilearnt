@@ -16,6 +16,16 @@ time {
   font-family: "Ruda", sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #4682b4;
+}
+
+
 #container {
   margin: 0;
   padding: 0;
@@ -46,7 +56,9 @@ time {
 }
 
 #container header h1 a {
-  color: #000000;
+  color: #4682b4;
+  font-size: 3.0rem;
+  font-family: "Tahoma", sans-serif;
 }
 
 #container header ul {
@@ -89,7 +101,7 @@ time {
 }
 
 #container nav ul li a.active {
-  border-bottom: 0.5em solid #666666;
+  border-bottom: 0.5em solid #4682b4;
 }
 
 #container main {
@@ -114,7 +126,7 @@ time {
 }
 
 #container main section#home span {
-  color: #666666;
+  color: #4682b4;
 }
 
 #container main section#list ul {
@@ -211,7 +223,7 @@ time {
 }
 
 a {
-  color: #666666;
+  color: #4682b4;
   text-decoration: none;
 }
 
