@@ -6,10 +6,21 @@
     <description>Recent content in All Posts on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 02 Jan 2019 10:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 08:07:49 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gurus and Experts</title>
+      <link>https://ilearnt.com/post/gurusandexperts/</link>
+      <pubDate>Thu, 03 Jan 2019 08:07:49 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/gurusandexperts/</guid>
+      <description>This is an old post (March 2009) that someone retweeted but still holds true now on how to work out if an expert is really an expert. It also is a guide how not to fall into common traps that so-called experts fall into.
+Links
+How to Call Bullshit on a Guru or Expert</description>
+    </item>
     
     <item>
       <title>3D animation from a 2D photo</title>
