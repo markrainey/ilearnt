@@ -6,10 +6,19 @@
     <description>Recent content in Business on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 03 Jan 2019 08:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 14:58:30 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/business/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Now?</title>
+      <link>https://ilearnt.com/post/whynow/</link>
+      <pubDate>Wed, 30 Jan 2019 14:58:30 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/whynow/</guid>
+      <description>I have used the &amp;ldquo;5 whys&amp;rdquo; approach multiple times to get to the root of some question. This article advocates adding a time dimension to the decision. Not only should we consider why we are doing something, we should also consider why we are doing something at a specific point in time. It also twists this around and suggests we should consider &amp;ldquo;What is the danger of not doing this right now?</description>
+    </item>
     
     <item>
       <title>Gurus and Experts</title>
