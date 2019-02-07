@@ -6,10 +6,19 @@
     <description>Recent content on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 30 Jan 2019 14:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 08:24:25 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The value of throwing code away</title>
+      <link>https://ilearnt.com/post/throwawaycode/</link>
+      <pubDate>Thu, 07 Feb 2019 08:24:25 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/throwawaycode/</guid>
+      <description>We had a discussion at work about &amp;ldquo;throw away&amp;rdquo; code. One of our developers was very against developing any code that would be thrown away afterwards. He referred to this as a waste. In my view sometimes the biggest gain can be in developing code that is meant to be thrown away. It can be used to try things and, more importantly, learn things that can shape the code that is kept.</description>
+    </item>
     
     <item>
       <title>Why Now?</title>
