@@ -6,10 +6,20 @@
     <description>Recent content on I learnt ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 07 Feb 2019 08:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 09:22:40 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting Costs</title>
+      <link>https://ilearnt.com/post/meetingcosts/</link>
+      <pubDate>Tue, 26 Feb 2019 09:22:40 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/meetingcosts/</guid>
+      <description>We had a meeting recently with 16 people on the video conference call. Due to poor planning and technical issues it took nearly half an hour to decide to postpone the meeting. That is eight man hours wasted - a whole day of work!
+This article proposes an add-on to the calendar that informs the person booking the meeting how much the meeting will effectively cost the company. Love it!</description>
+    </item>
     
     <item>
       <title>The value of throwing code away</title>
