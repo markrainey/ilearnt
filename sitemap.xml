@@ -4,7 +4,17 @@
   
   <url>
     <loc>https://ilearnt.com/post/</loc>
-    <lastmod>2019-02-26T09:22:40+00:00</lastmod>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilearnt.com/post/namingresources/</loc>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilearnt.com/post/newentry/</loc>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
   </url>
   
   <url>
@@ -358,6 +368,12 @@
   </url>
   
   <url>
+    <loc>https://ilearnt.com/categories/</loc>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ilearnt.com/categories/blockchain/</loc>
     <lastmod>2018-01-30T13:03:42+00:00</lastmod>
     <priority>0</priority>
@@ -371,13 +387,13 @@
   
   <url>
     <loc>https://ilearnt.com/categories/business/</loc>
-    <lastmod>2019-02-26T09:22:40+00:00</lastmod>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ilearnt.com/categories/</loc>
-    <lastmod>2018-01-30T13:03:42+00:00</lastmod>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -389,7 +405,7 @@
   
   <url>
     <loc>https://ilearnt.com/</loc>
-    <lastmod>2019-02-26T09:22:40+00:00</lastmod>
+    <lastmod>2019-02-27T09:22:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
