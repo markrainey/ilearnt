@@ -13,7 +13,7 @@ h4,
 h5,
 h6,
 time {
-  font-family: "Ruda", sans-serif;
+  font-family: "Segoe UI", "Ruda", sans-serif;
 }
 
 h1,
@@ -56,9 +56,9 @@ h6 {
 }
 
 #container header h1 a {
-  color: #4682b4;
-  font-size: 3.0rem;
-  font-family: "Tahoma", sans-serif;
+  color: #004F7C;
+  font-size: 3.2rem;
+  font-family: "Segoe UI", "Tahoma", sans-serif;
 }
 
 #container header ul {
@@ -83,7 +83,7 @@ h6 {
 }
 
 #container nav {
-  border-bottom: solid 3px #cecece;
+  border-bottom: solid 3px #E39E21;
   padding-bottom: 0.5em;
   font-family: "Ruda", sans-serif;
 }
@@ -207,7 +207,7 @@ h6 {
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   margin: 0.5em 0;
   font-family: "Ruda", sans-serif;
-  color: #909090;
+  color: ##7FB7EC;
   font-size: 0.8em;
 }
 
@@ -383,4 +383,24 @@ ul.pagination {
 
 ul.pagination li {
   padding: 0 1em;
+}
+
+.asideColumn {
+  float: left;
+  width: 33.33%;
+}
+
+#centreColumn {
+  text-align: center;
+}
+
+#rightColumn {
+  text-align: right;
+}
+
+/* Clear floats after the columns */
+.asideRow:after {
+  content: "";
+  display: table;
+  clear: both;
 }
