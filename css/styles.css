@@ -207,7 +207,7 @@ h6 {
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   margin: 0.5em 0;
   font-family: "Ruda", sans-serif;
-  color: ##7FB7ECv;
+  color: #7FB7EC;
   font-size: 0.8em;
 }
 
@@ -403,4 +403,8 @@ ul.pagination li {
   content: "";
   display: table;
   clear: both;
+}
+
+strong {
+	color: #7FB7EC;
 }
