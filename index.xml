@@ -6,10 +6,20 @@
     <description>Recent content on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 13 Mar 2019 08:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 16:30:28 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Real v Artificial Deadlines</title>
+      <link>https://ilearnt.com/post/deadlinetypes/</link>
+      <pubDate>Wed, 13 Mar 2019 16:30:28 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/deadlinetypes/</guid>
+      <description>This excellent article looks at the different types of deadlines and the impact they have. The key point for me, and not something I had seen previously defined, is the distinction between real and artificial deadlines:
+ Real deadlines have a direct (and often large) economic consequence. Not meeting the deadline will seriously jeopardize some future outcome. Artificial deadlines don’t work like that. There may be an economic impact, but the link between “hitting the date” and the economic impact will be a lot more subtle and abstract.</description>
+    </item>
     
     <item>
       <title>Planning Workshop</title>
