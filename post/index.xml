@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 27 Feb 2019 09:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 08:59:42 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Planning Workshop</title>
+      <link>https://ilearnt.com/post/planningworkshop/</link>
+      <pubDate>Wed, 13 Mar 2019 08:59:42 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/planningworkshop/</guid>
+      <description>We have just completed a two week exercise with the whole development team to identify, design and estimate the next phase of work. It started as an organic process as we found the best way to do this and then developed into a repeatable process for the latter functionality.
+Before starting on the individual breakdowns we produced a list of things to consider for everything we were estimating. This mostly consisted of a list of functional requirements like logging, testing, documentation, etc.</description>
+    </item>
     
     <item>
       <title>Naming Resources</title>
