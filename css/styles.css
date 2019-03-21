@@ -59,6 +59,8 @@ h6 {
   color: #004F7C;
   font-size: 4.0rem;
   font-family: "Calibri", "Segoe UI", "Tahoma", sans-serif;
+  display: flex;
+  align-items: center;
 }
 
 #container header ul {
@@ -408,3 +410,11 @@ ul.pagination li {
 strong {
 	color: #7FB7EC;
 }
+
+.learning-img {
+	width: 113px;
+	height: 109px;		
+	box-shadow: none !important;
+	margin-right: 20px
+}
+
