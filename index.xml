@@ -6,10 +6,22 @@
     <description>Recent content on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 27 Mar 2019 18:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2019 07:05:27 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Technical Debt Is Like Tetris</title>
+      <link>https://ilearnt.com/post/technicaldebttetris/</link>
+      <pubDate>Thu, 28 Mar 2019 07:05:27 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/technicaldebttetris/</guid>
+      <description>This article uses a really neat analogy with Tetris for illustrating the impact of technical debt. Leaving gaps is akin to leaving technical debt in the code base and makes subsequent changes more difficult or slower to ship.
+ A buried gap in Tetris represents technical debt.
+ It also points out the fact that it is called debt and so has to be paid off at some point.
+ Paying down technical debt keeps you competitive.</description>
+    </item>
     
     <item>
       <title>Empowering Problem Solvers</title>
