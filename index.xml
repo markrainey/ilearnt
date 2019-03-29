@@ -6,10 +6,20 @@
     <description>Recent content on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 28 Mar 2019 07:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 07:09:28 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bottlenecks</title>
+      <link>https://ilearnt.com/post/bottlenecks/</link>
+      <pubDate>Fri, 29 Mar 2019 07:09:28 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/bottlenecks/</guid>
+      <description>I really like Seth Godin&amp;rsquo;s blog - I could easily link to his posts every day - however occasionally a post really stands out for me. A recent post called Bottlenecks had an interesting observation that was a different way of thinking about them.
+I worked for a company a long time ago where the person running the company insisted on everything going through them - whether it was important decisions like strategy or minor stuff like approving the purchase of paper clips!</description>
+    </item>
     
     <item>
       <title>Technical Debt Is Like Tetris</title>
