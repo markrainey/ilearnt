@@ -6,10 +6,20 @@
     <description>Recent content in Technology on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 28 Mar 2019 07:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 08:07:55 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lazy Programmers</title>
+      <link>https://ilearnt.com/post/lazyprogrammers/</link>
+      <pubDate>Fri, 12 Apr 2019 08:07:55 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/lazyprogrammers/</guid>
+      <description>There is often a work culture that you should be busy all the time - if you are a programmer you should always be typing and producing code. Programming is a mental process and so requires thinking. Sometimes a little thought upfront saves a lot of pain and work down the line.
+The article below has a potentially controversial headline but sums this up really well. Being perceived as lazy as a programmer can actually be a good thing.</description>
+    </item>
     
     <item>
       <title>Technical Debt Is Like Tetris</title>
