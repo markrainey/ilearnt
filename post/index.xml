@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 20 May 2019 18:08:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 08:36:20 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#MonkeyFirst</title>
+      <link>https://ilearnt.com/post/monkeyfirst/</link>
+      <pubDate>Thu, 23 May 2019 08:36:20 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/monkeyfirst/</guid>
+      <description>I was listening to the audiobook for &amp;ldquo;Questions Are the Answer&amp;rdquo; by Hal Gregerson and it mentioned an approach used by the X lab at Alphabet nicknamed &amp;ldquo;MonkeyFirst&amp;rdquo;.
+It talks about the hypothetical problem of getting a monkey to recite passages of Shakespeare while sitting at the top of a 10 foot pedestal. There is a natural tendency to start working on the pedestal. It is something we know how to do and would show progress.</description>
+    </item>
     
     <item>
       <title>Consensus 2019 - Conference Notes</title>
