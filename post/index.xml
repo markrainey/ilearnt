@@ -6,10 +6,19 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 23 May 2019 08:36:20 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 07:34:22 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Summaries</title>
+      <link>https://ilearnt.com/post/booksummaries/</link>
+      <pubDate>Sat, 08 Jun 2019 07:34:22 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/booksummaries/</guid>
+      <description>I read a lot of books - a bit less at the moment as I commute less - but still probably more than most people. However there are so many books I would like to read I can&amp;rsquo;t read them all. I still prefer to read the full book but sometimes book summaries are useful - either to get the key concepts or as a reminder of what I have previously read.</description>
+    </item>
     
     <item>
       <title>#MonkeyFirst</title>
