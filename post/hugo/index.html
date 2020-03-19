@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <meta name="author" content="" />
-  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="generator" content="Hugo 0.67.1" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
@@ -82,41 +82,23 @@
     
 
     <p>This blog is being powered by a static content generator called <a href="https://gohugo.io/">Hugo</a> and hosted on GitHub Pages. Getting Hugo up and running was relatively easy. Download the relevant version and installation was just copying it to a folder.</p>
-
 <p>Once installed, create a new site:</p>
-
-<p>​   <code>hugo new site mySite</code></p>
-
+<p>​	<code>hugo new site mySite</code></p>
 <p>In the site folder edit the config.toml file to change the baseUrl, the language and the title.</p>
-
 <p>Use git to clone a theme from the <a href="https://themes.gohugo.io/">available themes</a> to a folder under the themes folder in your site.</p>
-
 <p>A page can be added by typing:</p>
-
-<p>​   <code>hugo new post/somepost.md</code></p>
-
+<p>​	<code>hugo new post/somepost.md</code></p>
 <p>and then editing the file generated under the content/post folder. You might want to remove the &ldquo;draft&rdquo; line&rdquo;.</p>
-
 <p>To test the site, run:</p>
-
-<p>​   <code>hugo server -t thethemename</code></p>
-
+<p>​	<code>hugo server -t thethemename</code></p>
 <p>where the <em>thethemename</em> is the name of the theme folder and then go to the url given in the console output.</p>
-
 <p>To build the static content:</p>
-
-<p>​   <code>hugo -t thethemename --destination=/somefolder</code></p>
-
+<p>​	<code>hugo -t thethemename --destination=/somefolder</code></p>
 <p>where <em>somefolder</em> is the name of the folder to build the content to.</p>
-
 <p>This can then be pushed to GitHub.</p>
-
 <p>Side note: You might also want to &ldquo;<em>git config core.safecrlf false</em>&rdquo; on the github folder to remove some CRLF warnings when pushing on Windows.</p>
-
 <p><strong>Links</strong></p>
-
 <p><a href="https://gohugo.io/">Hugo</a></p>
-
 <p><a href="https://themes.gohugo.io/">Available themes</a></p>
 
 

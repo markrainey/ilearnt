@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on I learnt about ...</title>
+    <title>life on I learnt about ...</title>
     <link>https://ilearnt.com/categories/life/</link>
-    <description>Recent content in Life on I learnt about ...</description>
+    <description>Recent content in life on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 15 Jun 2019 07:30:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 11:53:27 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Family Breakfast</title>
+      <link>https://ilearnt.com/post/familybreakfast/</link>
+      <pubDate>Thu, 19 Mar 2020 11:53:27 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/familybreakfast/</guid>
+      <description>Someone I work with mentioned that each week he takes time to have coffee with his mum. This might sound quite normal but there are two parts that stand out for me.
+Firstly it is the actual act of scheduling time to do this. It is very easy in today&amp;rsquo;s world to get so busy that we forget about the important stuff. Secondly, he lives in London and his mum lives in South Africa.</description>
+    </item>
     
     <item>
       <title>Sleep is your superpower</title>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on I learnt about ...</title>
@@ -6,67 +6,22 @@
     <description>Recent content in Categories on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jan 2018 13:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 11:53:27 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blockchain</title>
-      <link>https://ilearnt.com/categories/blockchain/</link>
-      <pubDate>Tue, 30 Jan 2018 13:03:42 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/categories/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book</title>
-      <link>https://ilearnt.com/categories/book/</link>
-      <pubDate>Sat, 05 May 2018 07:00:48 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/categories/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://ilearnt.com/categories/business/</link>
-      <pubDate>Thu, 23 May 2019 08:36:20 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Howto</title>
-      <link>https://ilearnt.com/categories/howto/</link>
-      <pubDate>Sat, 20 Jan 2018 16:57:14 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/categories/howto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
+      <title>life</title>
       <link>https://ilearnt.com/categories/life/</link>
-      <pubDate>Sat, 15 Jun 2019 07:30:56 +0100</pubDate>
+      <pubDate>Thu, 19 Mar 2020 11:53:27 +0000</pubDate>
       
       <guid>https://ilearnt.com/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Podcast</title>
-      <link>https://ilearnt.com/categories/podcast/</link>
-      <pubDate>Wed, 14 Feb 2018 08:10:08 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/categories/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
+      <title>technology</title>
       <link>https://ilearnt.com/categories/technology/</link>
       <pubDate>Sat, 15 Jun 2019 07:33:48 +0100</pubDate>
       
@@ -75,11 +30,56 @@
     </item>
     
     <item>
-      <title>Video</title>
+      <title>business</title>
+      <link>https://ilearnt.com/categories/business/</link>
+      <pubDate>Thu, 23 May 2019 08:36:20 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://ilearnt.com/categories/book/</link>
+      <pubDate>Sat, 05 May 2018 07:00:48 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
       <link>https://ilearnt.com/categories/video/</link>
       <pubDate>Wed, 25 Apr 2018 07:51:02 +0100</pubDate>
       
       <guid>https://ilearnt.com/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://ilearnt.com/categories/podcast/</link>
+      <pubDate>Wed, 14 Feb 2018 08:10:08 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blockchain</title>
+      <link>https://ilearnt.com/categories/blockchain/</link>
+      <pubDate>Tue, 30 Jan 2018 13:03:42 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>howto</title>
+      <link>https://ilearnt.com/categories/howto/</link>
+      <pubDate>Sat, 20 Jan 2018 16:57:14 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/categories/howto/</guid>
       <description></description>
     </item>
     

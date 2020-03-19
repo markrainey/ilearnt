@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on I learnt about ...</title>
+    <title>technology on I learnt about ...</title>
     <link>https://ilearnt.com/categories/technology/</link>
-    <description>Recent content in Technology on I learnt about ...</description>
+    <description>Recent content in technology on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 15 Jun 2019 07:33:48 +0100</lastBuildDate>
@@ -338,7 +338,7 @@ Modern Dev Team</description>
       <guid>https://ilearnt.com/post/hugo/</guid>
       <description>This blog is being powered by a static content generator called Hugo and hosted on GitHub Pages. Getting Hugo up and running was relatively easy. Download the relevant version and installation was just copying it to a folder.
 Once installed, create a new site:
-​ hugo new site mySite
+​	hugo new site mySite
 In the site folder edit the config.toml file to change the baseUrl, the language and the title.
 Use git to clone a theme from the available themes to a folder under the themes folder in your site.</description>
     </item>

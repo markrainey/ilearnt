@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I learnt about ...</title>
@@ -6,10 +6,20 @@
     <description>Recent content on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 15 Jun 2019 07:33:48 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 11:53:27 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Family Breakfast</title>
+      <link>https://ilearnt.com/post/familybreakfast/</link>
+      <pubDate>Thu, 19 Mar 2020 11:53:27 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/familybreakfast/</guid>
+      <description>Someone I work with mentioned that each week he takes time to have coffee with his mum. This might sound quite normal but there are two parts that stand out for me.
+Firstly it is the actual act of scheduling time to do this. It is very easy in today&amp;rsquo;s world to get so busy that we forget about the important stuff. Secondly, he lives in London and his mum lives in South Africa.</description>
+    </item>
     
     <item>
       <title>Goggles give back sight</title>
@@ -58,11 +68,10 @@ It talks about the hypothetical problem of getting a monkey to recite passages o
       <guid>https://ilearnt.com/post/consensus2019/</guid>
       <description>These are my notes from attending the Consensus 2019 conference in New York - there is a good chance that some of the notes I made are incorrect.
 State of Blockchain Alex Sunnarborg - Tetras Capital
- Bitmex - 10 billion volume in 24 hours
- Decentralized Finance (DeFi) has locked up &amp;gt;2% of ETH
- Blockchain developer demand up 33x
- Institutions views on digital assets
- 22% already cover them 40% open to including them in the next 5 years 47% have place in portfolios   From Digital Gold to Contract Theory: The Economics of Mainstream Adoption Joshua Gans - Professor of Strategic Management, Rotman School of Management, Creative Destruction Lab</description>
+  Bitmex - 10 billion volume in 24 hours
+  Decentralized Finance (DeFi) has locked up &amp;gt;2% of ETH
+  Blockchain developer demand up 33x
+  Institutions views on digital assets</description>
     </item>
     
     <item>
@@ -880,7 +889,7 @@ Modern Dev Team</description>
       <guid>https://ilearnt.com/post/hugo/</guid>
       <description>This blog is being powered by a static content generator called Hugo and hosted on GitHub Pages. Getting Hugo up and running was relatively easy. Download the relevant version and installation was just copying it to a folder.
 Once installed, create a new site:
-​ hugo new site mySite
+​	hugo new site mySite
 In the site folder edit the config.toml file to change the baseUrl, the language and the title.
 Use git to clone a theme from the available themes to a folder under the themes folder in your site.</description>
     </item>

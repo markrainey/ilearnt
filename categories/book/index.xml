@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book on I learnt about ...</title>
+    <title>book on I learnt about ...</title>
     <link>https://ilearnt.com/categories/book/</link>
-    <description>Recent content in Book on I learnt about ...</description>
+    <description>Recent content in book on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 05 May 2018 07:00:48 +0100</lastBuildDate>
