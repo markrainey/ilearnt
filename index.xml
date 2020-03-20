@@ -6,10 +6,19 @@
     <description>Recent content on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 19 Mar 2020 16:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 08:38:45 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spreading The Knowledge</title>
+      <link>https://ilearnt.com/post/spreadingtheknowledge/</link>
+      <pubDate>Fri, 20 Mar 2020 08:38:45 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/spreadingtheknowledge/</guid>
+      <description>On most projects there is a tendency for someone involved to become the &amp;ldquo;expert&amp;rdquo; in one or more areas. As they become comfortable and more knowledgeable in an area they will naturally gravitate to picking up tasks related to it. The need to deliver as quickly as possible can also drive this as the person who knows most is likely to be the person who can do the work quickest.</description>
+    </item>
     
     <item>
       <title>Octopus Dreaming</title>
