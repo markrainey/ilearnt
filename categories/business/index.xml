@@ -6,10 +6,20 @@
     <description>Recent content in business on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 20 Mar 2020 08:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 12:31:51 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/business/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shared Meeting Document</title>
+      <link>https://ilearnt.com/post/sharedmeetingdocument/</link>
+      <pubDate>Mon, 23 Mar 2020 12:31:51 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/sharedmeetingdocument/</guid>
+      <description>We have a lot of remote meetings as most of our team work a significant amount of time from home. Face to face meetings are much better for some types of meetings - especially workshops and retrospectives. As the level of expected collaboration increases the more it favours face to face interactions.
+We have also been far from optimal in capturing information from meetings and discussions. We have tended to capture the actions fairly well but have failed to adequately capture the &amp;ldquo;why&amp;rdquo; - i.</description>
+    </item>
     
     <item>
       <title>#MonkeyFirst</title>
