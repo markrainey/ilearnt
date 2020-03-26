@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 25 Mar 2020 10:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 16:34:57 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting Free Days</title>
+      <link>https://ilearnt.com/post/meetingfreedays/</link>
+      <pubDate>Thu, 26 Mar 2020 16:34:57 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/meetingfreedays/</guid>
+      <description>It is very easy for your work week to become a random collection of meetings - all with different attendees and different agendas. For developers in particular this can cause a huge hit on productivity as their day becomes disjointed and they are unable to stay focussed for the longer periods they need for their work.
+We started seeing this with the team I am working with. Someone would see a big chunk of free time and schedule a meeting right in the middle of it.</description>
+    </item>
     
     <item>
       <title>Paper Airplane Database</title>
