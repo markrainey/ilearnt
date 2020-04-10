@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: "neuzeit-grotesk",Arial,sans-serif;
+  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
   color: #333333;
 }
 
@@ -13,7 +13,7 @@ h4,
 h5,
 h6,
 time {
-  font-family: "Segoe UI", "Ruda", sans-serif;
+  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
 }
 
 h1,
@@ -48,19 +48,25 @@ h6 {
 }
 
 #container header {
-  margin-bottom: 1em;
+  margin-bottom: 0.1em;
+}
+
+#container h1 a {
+  font-size: 1.8rem;
 }
 
 #container header h1 {
   font-size: 2.4rem;
+  margin: 0em;
 }
 
 #container header h1 a {
-  color: #004F7C;
-  font-size: 4.0rem;
-  font-family: "Calibri", "Segoe UI", "Tahoma", sans-serif;
+  color: #4682b4;
+  font-size: 3.2rem;
+  font-weight: normal;
+  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
   display: flex;
-  align-items: center;
+  align-items: center;  
 }
 
 #container header ul {
@@ -85,9 +91,9 @@ h6 {
 }
 
 #container nav {
-  border-bottom: solid 3px #E39E21;
+  border-bottom: solid 3px #4682b4;
   padding-bottom: 0.5em;
-  font-family: "Ruda", sans-serif;
+  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
 }
 
 #container nav ul {
@@ -109,7 +115,7 @@ h6 {
 #container main {
   flex: 1 0 0;
   line-height: 1.5;
-  font-size: 1.2rem;
+  font-size: 16px;
 }
 
 #container main section#home ul {
@@ -208,7 +214,7 @@ h6 {
 
 .meta-aside, #container main section#home ul li aside, #container main article aside {
   margin: 0.5em 0;
-  font-family: "Ruda", sans-serif;
+  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
   color: #7FB7EC;
   font-size: 0.8em;
 }
