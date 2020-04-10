@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 09 Apr 2020 09:06:46 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 14:28:25 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft To Do</title>
+      <link>https://ilearnt.com/post/microsofttodo/</link>
+      <pubDate>Fri, 10 Apr 2020 14:28:25 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/microsofttodo/</guid>
+      <description>I have tried numerous to-do applications in the past; from the very simplest to the all-singing, all-dancing applications and they have never stuck. I used them for a week or so and realised a month later that I hadn&amp;rsquo;t used them for a while.
+The Microsoft To Do application seems to have hit a sweet spot for me. I have found myself using it regularly to track both my home and my work tasks.</description>
+    </item>
     
     <item>
       <title>Productivity Book Summaries</title>
