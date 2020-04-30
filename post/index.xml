@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 14 Apr 2020 21:36:47 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 17:39:32 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gmail Sync Issue On Android</title>
+      <link>https://ilearnt.com/post/gmailsyncissueonandroid/</link>
+      <pubDate>Thu, 30 Apr 2020 17:39:32 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/gmailsyncissueonandroid/</guid>
+      <description>I occasionally stop getting Gmail notifications on my Google Pixel 2XL android phone. I later find that I have a whole bunch of emails that I had missed. I am not sure what causes it however I have found a way to make it work again.
+Under Settings, select Accounts and then your Google account. Once opened click on Account sync. You will be able to see when it was last synced and you will probably find that it failed a while ago.</description>
+    </item>
     
     <item>
       <title>Cycle Through Gmail Accounts On Android</title>
