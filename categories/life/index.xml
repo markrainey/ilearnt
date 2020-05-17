@@ -6,10 +6,20 @@
     <description>Recent content in life on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 10 Apr 2020 14:28:25 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 14:24:06 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Magnetic Whiteboard</title>
+      <link>https://ilearnt.com/post/magneticwhiteboard/</link>
+      <pubDate>Sun, 17 May 2020 14:24:06 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/magneticwhiteboard/</guid>
+      <description>Whenever I work I am always jotting down things on pieces of plain paper next to me - this could be things to do, ideas, random thoughts, planning for meetings, etc.. Every week or so I do a cull of this stack of paper and then start on a new piece of paper.
+Recently I bought a small whiteboard for my daughter which she uses to plan her schoolwork. It seemed to work very well for her so I thought I would give it a try.</description>
+    </item>
     
     <item>
       <title>Microsoft To Do</title>
