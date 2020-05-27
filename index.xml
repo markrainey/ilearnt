@@ -6,10 +6,20 @@
     <description>Recent content on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 17 May 2020 14:24:06 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 08:29:58 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rethinking Conferences</title>
+      <link>https://ilearnt.com/post/rethinkingconferences/</link>
+      <pubDate>Wed, 27 May 2020 08:29:58 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/rethinkingconferences/</guid>
+      <description>I recently attended the fully virtual Microsoft Build conference. There is no way I would have been able to attend the real &amp;ldquo;physical&amp;rdquo; conference due to the location, financial commitment and time required however this gave me an opportunity to benefit from something normally out of my reach.
+The conference as a whole was excellent despite the limitations of not only being virtual but also mostly broadcast from homes. The idea of running each talk multiple times to suit people in different time zones was brilliant and the variety of subjects and presentation styles was great.</description>
+    </item>
     
     <item>
       <title>Magnetic Whiteboard</title>
