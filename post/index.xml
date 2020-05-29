@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 27 May 2020 08:29:58 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 13:54:51 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sketchnoting</title>
+      <link>https://ilearnt.com/post/sketchnoting/</link>
+      <pubDate>Fri, 29 May 2020 13:54:51 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/sketchnoting/</guid>
+      <description>One of the talks I attended at the Microsoft Build conference was called &amp;ldquo;Sketchnoting 101&amp;rdquo; and given by Nitya Narasimhan. It gave a very high level view of the approach and how anyone can quickly pick it up.
+Having seen the rough approach I think I have a preference for trying it electronically as it means I can make corrections and play around with layouts. It seems that the most common tool for this is Procreate however this unfortunately is limited to the Apple ecosystem.</description>
+    </item>
     
     <item>
       <title>Rethinking Conferences</title>
