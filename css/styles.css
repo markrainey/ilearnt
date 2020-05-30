@@ -432,6 +432,8 @@ strong {
 
 .titleBox {
  background: #4682B4; 
+ opacity: 0.75;
+ background-image: url("/technology.png");
  border-radius: 10px 10px 10px 10px;
  overflow:hidden;
  padding: 0px 10px 0px 10px; 
