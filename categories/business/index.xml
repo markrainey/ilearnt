@@ -33,35 +33,6 @@ Productivity Game</description>
     </item>
     
     <item>
-      <title>Meeting Free Days</title>
-      <link>https://ilearnt.com/post/meetingfreedays/</link>
-      <pubDate>Thu, 26 Mar 2020 16:34:57 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/meetingfreedays/</guid>
-      <description>It is very easy for your work week to become a random collection of meetings - all with different attendees and different agendas. For developers in particular this can cause a huge hit on productivity as their day becomes disjointed and they are unable to stay focussed for the longer periods they need for their work.
-We started seeing this with the team I am working with. Someone would see a big chunk of free time and schedule a meeting right in the middle of it.</description>
-    </item>
-    
-    <item>
-      <title>Shared Meeting Document</title>
-      <link>https://ilearnt.com/post/sharedmeetingdocument/</link>
-      <pubDate>Mon, 23 Mar 2020 12:31:51 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/sharedmeetingdocument/</guid>
-      <description>We have a lot of remote meetings as most of our team work a significant amount of time from home. Face to face meetings are much better for some types of meetings - especially workshops and retrospectives. As the level of expected collaboration increases the more it favours face to face interactions.
-We have also been far from optimal in capturing information from meetings and discussions. We have tended to capture the actions fairly well but have failed to adequately capture the &amp;ldquo;why&amp;rdquo; - i.</description>
-    </item>
-    
-    <item>
-      <title>Spreading The Knowledge</title>
-      <link>https://ilearnt.com/post/spreadingtheknowledge/</link>
-      <pubDate>Fri, 20 Mar 2020 08:38:45 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/spreadingtheknowledge/</guid>
-      <description>On most projects there is a tendency for someone involved to become the &amp;ldquo;expert&amp;rdquo; in one or more areas. As they become comfortable and more knowledgeable in an area they will naturally gravitate to picking up tasks related to it. The need to deliver as quickly as possible can also drive this as the person who knows most is likely to be the person who can do the work quickest.</description>
-    </item>
-    
-    <item>
       <title>#MonkeyFirst</title>
       <link>https://ilearnt.com/post/monkeyfirst/</link>
       <pubDate>Thu, 23 May 2019 08:36:20 +0100</pubDate>
@@ -96,17 +67,6 @@ The article linked below highlights this and offers an alternative approach to t
     </item>
     
     <item>
-      <title>Leaving Well</title>
-      <link>https://ilearnt.com/post/leavingwell/</link>
-      <pubDate>Mon, 18 Mar 2019 09:08:24 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/leavingwell/</guid>
-      <description>When someone leaves a company there are two sides to it.
-The first side is the way the employee behaves and handles themselves. I always aim to be professional and work hard until the moment I leave the office for the last time. I like to think that is one of the reasons my last four roles have involved word of mouth recommendations.
-I have seen some people, who were excellent up to that point, almost switch off once they have announced they are leaving.</description>
-    </item>
-    
-    <item>
       <title>Real v Artificial Deadlines</title>
       <link>https://ilearnt.com/post/deadlinetypes/</link>
       <pubDate>Wed, 13 Mar 2019 16:30:28 +0000</pubDate>
@@ -114,16 +74,6 @@ I have seen some people, who were excellent up to that point, almost switch off 
       <guid>https://ilearnt.com/post/deadlinetypes/</guid>
       <description>This excellent article looks at the different types of deadlines and the impact they have. The key point for me, and not something I had seen previously defined, is the distinction between real and artificial deadlines:
  Real deadlines have a direct (and often large) economic consequence. Not meeting the deadline will seriously jeopardize some future outcome. Artificial deadlines don’t work like that. There may be an economic impact, but the link between “hitting the date” and the economic impact will be a lot more subtle and abstract.</description>
-    </item>
-    
-    <item>
-      <title>Planning Workshop</title>
-      <link>https://ilearnt.com/post/planningworkshop/</link>
-      <pubDate>Wed, 13 Mar 2019 08:59:42 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/planningworkshop/</guid>
-      <description>We have just completed a two week exercise with the whole development team to identify, design and estimate the next phase of work. It started as an organic process as we found the best way to do this and then developed into a repeatable process for the latter functionality.
-Before starting on the individual breakdowns we produced a list of things to consider for everything we were estimating. This mostly consisted of a list of functional requirements like logging, testing, documentation, etc.</description>
     </item>
     
     <item>
@@ -135,16 +85,6 @@ Before starting on the individual breakdowns we produced a list of things to con
       <description>This one is just for future reference for me that I may find useful one day - a website full of resources that may be useful for naming things.
 Links
 Onym</description>
-    </item>
-    
-    <item>
-      <title>Meeting Costs</title>
-      <link>https://ilearnt.com/post/meetingcosts/</link>
-      <pubDate>Tue, 26 Feb 2019 09:22:40 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/meetingcosts/</guid>
-      <description>We had a meeting recently with 16 people on the video conference call. Due to poor planning and technical issues it took nearly half an hour to decide to postpone the meeting. That is eight man hours wasted - a whole day of work!
-This article proposes an add-on to the calendar that informs the person booking the meeting how much the meeting will effectively cost the company. Love it!</description>
     </item>
     
     <item>
@@ -168,36 +108,6 @@ How to Call Bullshit on a Guru or Expert</description>
     </item>
     
     <item>
-      <title>Abolish Performance Reviews</title>
-      <link>https://ilearnt.com/post/abolishperformancereviews/</link>
-      <pubDate>Fri, 13 Jul 2018 06:41:16 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/post/abolishperformancereviews/</guid>
-      <description>I have never been a fan of performance reviews. It may have been down to the way they were implemented at the places I worked however they never seemed to achieve what they were set out to do. The review would usually consist of going over the &amp;ldquo;achievements&amp;rdquo; for the past period and then setting a bunch of artificial goals for the next period. The only time these new goals were actually consulted was in the run up to the next review.</description>
-    </item>
-    
-    <item>
-      <title>Working From Home Boosts Productivity</title>
-      <link>https://ilearnt.com/post/workingfromhomeboost/</link>
-      <pubDate>Mon, 14 May 2018 07:13:33 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/post/workingfromhomeboost/</guid>
-      <description>I am fortunate with my current role that I am able to work 2-3 days per week from home. This saves me about 2.5 hours of commuting time per day as well as about £2000 per year.
-A new study from Stanford University has shown that working from home can increase productivity significantly. There is a small proviso that working 100% of the time from home can also have a detrimental effect as it can lead to isolation.</description>
-    </item>
-    
-    <item>
-      <title>The Bosses We Remember</title>
-      <link>https://ilearnt.com/post/thebossesweremember/</link>
-      <pubDate>Sat, 05 May 2018 07:41:33 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/post/thebossesweremember/</guid>
-      <description>I have been very fortunate in my career to have some exceptional bosses that have had a massive impact on my career.
-Kim Ho
-When I came out of university it was in the middle of a recession. Despite coming second in my whole year I had to send my CV out to 45 places before I got a single response. Fortunately I got the role and I have never been out of work since (in over 25 years).</description>
-    </item>
-    
-    <item>
       <title>The Little Trade-Offs</title>
       <link>https://ilearnt.com/post/thelittletradeoffs/</link>
       <pubDate>Fri, 27 Apr 2018 08:36:28 +0100</pubDate>
@@ -205,28 +115,6 @@ When I came out of university it was in the middle of a recession. Despite comin
       <guid>https://ilearnt.com/post/thelittletradeoffs/</guid>
       <description>I found this article to be a very astute observation that it can be all the &amp;ldquo;little trade-offs&amp;rdquo; that can add up to cause issues. The article highlights it from the perspective of a leader who can make small decisions, usually around putting something off or taking a short cut, that can add up to impact their work and those around them.
 I have also seen this with technical projects. Sometimes small decisions can cascade through a project and cause massive problems later.</description>
-    </item>
-    
-    <item>
-      <title>Reducing the team size to deliver</title>
-      <link>https://ilearnt.com/post/reducingteamsize/</link>
-      <pubDate>Mon, 26 Feb 2018 18:15:23 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/reducingteamsize/</guid>
-      <description>A project was struggling to deliver in time and the project manager resolved it by reducing the team size where the typical approach is to increase the team size. This decision was based on the overhead of communication and Brooks Law.
-Links
-Applying Brooks Law</description>
-    </item>
-    
-    <item>
-      <title>Unorthodox Leadership</title>
-      <link>https://ilearnt.com/post/unorthodoxleadership/</link>
-      <pubDate>Sat, 17 Feb 2018 06:32:50 +0000</pubDate>
-      
-      <guid>https://ilearnt.com/post/unorthodoxleadership/</guid>
-      <description>Steve Kerr, the coach of the Golden State Warriors basketball team, took an usual step recently by allowing his players to coach instead of him. He felt that things had become a little staid and wanted to shake things up &amp;hellip; it worked - they won by their highest margin of the season. Sometimes leadership is knowing when to step back.
-Links
-By Doing Something No One Expected, Golden State Warriors Coach Steve Kerr Taught a Brilliant Leadership Lesson</description>
     </item>
     
     <item>
