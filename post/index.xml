@@ -6,10 +6,20 @@
     <description>Recent content in All Posts on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 29 May 2020 13:54:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 11:39:57 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fully Remote Retrospectives</title>
+      <link>https://ilearnt.com/post/fullyremoteretrospectives/</link>
+      <pubDate>Sat, 04 Jul 2020 11:39:57 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/fullyremoteretrospectives/</guid>
+      <description>As part of our processes we regularly hold retrospectives. We used to do this all in a room with post-it notes - a fairly traditional approach. We would set up 4 areas: Liked, Longed, Learned and Lacked and proceed to plaster post-it notes over the different sections. Once everyone had finished we would organise each section into themes and then discuss and agree actions.
+Going fully remote has obviously meant we need to take a different approach and we now drive it from a shared document we create for each retrospective in Google Docs.</description>
+    </item>
     
     <item>
       <title>Sketchnoting</title>
