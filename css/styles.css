@@ -264,7 +264,7 @@ h1 a {
 
 .mid-image, figure.mid img, img[src*="mid"] {
   width: 100%;
-  box-shadow: 0 3px 3px #bbbbbb;
+
 }
 
 @supports (width: 100vw) {
