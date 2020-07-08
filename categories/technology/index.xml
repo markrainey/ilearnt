@@ -6,10 +6,21 @@
     <description>Recent content in technology on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Apr 2020 17:39:32 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 20:50:08 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When your WPF menu alignment is wrong</title>
+      <link>https://ilearnt.com/post/menualignment/</link>
+      <pubDate>Tue, 07 Jul 2020 20:50:08 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/menualignment/</guid>
+      <description>I had a very weird problem where my menus on a WPF application were dropping down to the left instead of the normal to the right.
+ Incorrect menu alignment   It turns out it is due to having a tablet setting set to right handed &amp;hellip; even though I don&amp;rsquo;t have a tablet. The answer was found on the link at the bottom of this post.
+To fix it:</description>
+    </item>
     
     <item>
       <title>A quick fix for missing Gmail notifications on Android phones</title>

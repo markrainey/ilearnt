@@ -1,0 +1,131 @@
+<!doctype html>
+
+<html lang="en-gb">
+
+<head>
+  <title>I learnt about ...</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <meta name="author" content="" />
+  <meta name="generator" content="Hugo 0.71.1" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="https://ilearnt.com/css/styles.css" />
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="https://ilearnt.com/"><img class="learning-img" src="https://ilearnt.com/learning.png" />I learnt about &hellip;</a>
+            </h1>
+		
+      <ul id="social-media">
+             
+      </ul>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a href="https://ilearnt.com/post/">
+                <i class="fa-li fa  fa-lg"></i><span>All Posts</span>
+            </a>
+			&nbsp;
+			<a href="https://ilearnt.com/categories">
+                <i class="fa-li fa  fa-lg"></i><span>Categories</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+    <main>
+
+
+
+
+<article>
+
+	<div class="titleBox" >
+    <h1>When your WPF menu alignment is wrong</h1>
+
+    
+        <aside>
+	<div class="asideRow">
+		<div class="asideColumn">
+			<time class="post-date" datetime="2020-07-07T20:50:08&#43;01:00">Jul 7, 2020</time>
+		</div>
+		
+		<div id="centerColumn" class="asideColumn">
+		Categories: 
+            <em>
+                
+                    
+                    <a href="https://ilearnt.com/categories/technology/">technology</a>
+                
+            </em>
+		</div>
+		
+		
+		<div id="rightColumn" class="asideColumn">1 min read</div>
+	</div>
+
+</aside>
+    
+	</div>
+
+    <p>I had a very weird problem where my menus on a WPF application were dropping down to the left instead of the normal to the right.</p>
+<figure class="float-right">
+    <img src="https://ilearnt.com/MenuAlignment.png"/> <figcaption>
+            <h4>Incorrect menu alignment</h4>
+        </figcaption>
+</figure>
+
+<p>It turns out it is due to having a tablet setting set to right handed &hellip; even though I don&rsquo;t have a tablet. The answer was found on the link at the bottom of this post.</p>
+<p>To fix it:</p>
+<p>Press the <strong>Windows key + R</strong> and then copy/paste the following line of text.</p>
+<p>shell:::{80F3F1D5-FECA-45F3-BC32-752C152E456E}</p>
+<p>Press OK.</p>
+<p>In the Tablet PC Settings configuration dialog select the &ldquo;Other&rdquo; Tab. In the Handedness section, place a check mark in the Left Handed option.</p>
+<p>Click OK.</p>
+<p>Fixed.</p>
+<p><strong>Links</strong></p>
+<p><a href="https://stackoverflow.com/questions/11237378/how-can-i-get-wpf-menus-to-align-like-the-old-win-forms-menu">How can I get WPF menus to align like the old win forms menu?</a></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="https://ilearnt.com/post/fullyremoteretrospectives/"><i class="fa fa-chevron-circle-left"></i> How to easily implement successful remote team retrospectives</a>
+        </li>
+        
+        
+    </ul>
+</section>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6> | 
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="https://ilearnt.com/index.xml">Subscribe (RSS)</a></h6>
+    </footer>
+</div>
+<script src="https://ilearnt.com/js/scripts.js"></script>
+</body>
+
+</html>

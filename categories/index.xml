@@ -6,10 +6,19 @@
     <description>Recent content in Categories on I learnt about ...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 04 Jul 2020 11:39:57 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 20:50:08 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>technology</title>
+      <link>https://ilearnt.com/categories/technology/</link>
+      <pubDate>Tue, 07 Jul 2020 20:50:08 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/categories/technology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>work</title>
@@ -35,15 +44,6 @@
       <pubDate>Wed, 27 May 2020 08:29:58 +0100</pubDate>
       
       <guid>https://ilearnt.com/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://ilearnt.com/categories/technology/</link>
-      <pubDate>Thu, 30 Apr 2020 17:39:32 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/categories/technology/</guid>
       <description></description>
     </item>
     
