@@ -13,6 +13,25 @@
     
     
     <item>
+      <title>Categories</title>
+      <link>https://ilearnt.com/categories/</link>
+      <pubDate>Fri, 07 Aug 2020 12:12:36 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ilearnt.com/about/</link>
+      <pubDate>Fri, 07 Aug 2020 12:06:25 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/about/</guid>
+      <description>The posts on this site are mainly me capturing random thoughts or things that I find interesting and have learnt something from &amp;hellip; hence the name of the site.
+Maybe, if I am lucky, you will learn something from one of the posts on this site as well.</description>
+    </item>
+    
+    <item>
       <title>When your WPF menu alignment is wrong</title>
       <link>https://ilearnt.com/post/menualignment/</link>
       <pubDate>Tue, 07 Jul 2020 20:50:08 +0100</pubDate>
