@@ -58,8 +58,9 @@ To solve this I created a simple document and added a heading for each meeting. 
       
       <guid>https://ilearnt.com/post/menualignment/</guid>
       <description>I had a very weird problem where my menus on a WPF application were dropping down to the left instead of the normal to the right.
- Incorrect menu alignment   It turns out it is due to having a tablet setting set to right handed &amp;hellip; even though I don&amp;rsquo;t have a tablet. The answer was found on the link at the bottom of this post.
-To fix it:</description>
+It turns out it is due to having a tablet setting set to right handed &amp;hellip; even though I don&amp;rsquo;t have a tablet. The answer was found on the link at the bottom of this post.
+To fix it:
+Press the Windows key + R and then copy/paste the following line of text.</description>
     </item>
     
     <item>

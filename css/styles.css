@@ -442,8 +442,17 @@ strong {
   font-family: "Inter var",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,sans-serif;
   font-size: 40px;
   font-weight: normal;
+  display: inline;
 }
 
 em a {
 	color: #4682b4;
+}
+
+.thumbnail {
+	width: 64px;
+	height: 64px;
+	float: left;
+	margin: 0 20px 0 0;
+	box-shadow:0 0 0 0;
 }
