@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Sat, 05 Sep 2020 15:10:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 13:25:09 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>life</title>
+      <link>https://ilearnt.com/categories/life/</link>
+      <pubDate>Sun, 27 Sep 2020 13:25:09 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/categories/life/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>work</title>
@@ -27,15 +36,6 @@
       <pubDate>Tue, 07 Jul 2020 20:50:08 +0100</pubDate>
       
       <guid>https://ilearnt.com/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>https://ilearnt.com/categories/life/</link>
-      <pubDate>Fri, 29 May 2020 13:54:51 +0100</pubDate>
-      
-      <guid>https://ilearnt.com/categories/life/</guid>
       <description></description>
     </item>
     

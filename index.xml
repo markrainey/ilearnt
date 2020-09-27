@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Sat, 05 Sep 2020 15:10:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 13:25:09 +0100</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,18 @@
       <guid>https://ilearnt.com/about/</guid>
       <description>The posts on this site are mainly me capturing random thoughts or things that I find interesting and have learnt something from &amp;hellip; hence the name of the site.
 Maybe, if I am lucky, you will learn something from one of the posts on this site as well.</description>
+    </item>
+    
+    <item>
+      <title>Solitude and conversations lead to great ideas</title>
+      <link>https://ilearnt.com/post/solitudeandconversation/</link>
+      <pubDate>Sun, 27 Sep 2020 13:25:09 +0100</pubDate>
+      
+      <guid>https://ilearnt.com/post/solitudeandconversation/</guid>
+      <description>There was a tweet recently by Sahil Lavingia that stated
+&amp;ldquo;Great ideas come from two places: solitude and conversation.&amp;quot;
+I have certainly found this to be the case.
+When I was commuting into London every day I would regularly spend 30 minutes walking back from the train station. During this time I would either listen to podcasts - all sorts of subjects - or just use the time to think. This led to a whole bunch of ideas around work or potential projects or just interesting avenues to follow.</description>
     </item>
     
     <item>
