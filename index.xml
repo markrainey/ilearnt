@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Mon, 02 Nov 2020 07:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 08:25:59 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,18 @@
       <guid>https://ilearnt.com/about/</guid>
       <description>The posts on this site are mainly me capturing random thoughts or things that I find interesting and have learnt something from &amp;hellip; hence the name of the site.
 Maybe, if I am lucky, you will learn something from one of the posts on this site as well.</description>
+    </item>
+    
+    <item>
+      <title>Exposing the beauty in a problem</title>
+      <link>https://ilearnt.com/post/beautyinaproblem/</link>
+      <pubDate>Tue, 03 Nov 2020 08:25:59 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/beautyinaproblem/</guid>
+      <description>I was recently reminded of this great quote:
+&amp;ldquo;When I&amp;rsquo;m working on a problem, I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.&amp;rdquo; - R. Buckminster Fuller
+Sometimes this happens when working in the world of software.
+There have been occasions where I have been working on a design and the solution just seems to fall out almost naturally - and in most cases where this has happened the beauty becomes apparent in the ease and clarity that the approach can be built on and extended.</description>
     </item>
     
     <item>
