@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Wed, 04 Nov 2020 08:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2020 07:12:46 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,16 @@
       <guid>https://ilearnt.com/about/</guid>
       <description>The posts on this site are mainly me capturing random thoughts or things that I find interesting and have learnt something from &amp;hellip; hence the name of the site.
 Maybe, if I am lucky, you will learn something from one of the posts on this site as well.</description>
+    </item>
+    
+    <item>
+      <title>New ways to generate ideas online</title>
+      <link>https://ilearnt.com/post/betterideaprompts/</link>
+      <pubDate>Fri, 06 Nov 2020 07:12:46 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/betterideaprompts/</guid>
+      <description>There are a lot of sites that claim to be idea generators. Most of them turn out to be just a button you click that slings together a bunch of random words that are meant to then become a prompt to generate ideas.
+The Product Idea Prompts site by Jakob Greenfeld seems to be much more than this. The prompts it generates are not random words but calls to action - tasks to do that will then generate ideas.</description>
     </item>
     
     <item>
