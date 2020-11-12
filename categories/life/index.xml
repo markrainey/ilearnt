@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Wed, 04 Nov 2020 08:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 17:22:55 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI breaks the game of hide and seek</title>
+      <link>https://ilearnt.com/post/hideandseek/</link>
+      <pubDate>Thu, 12 Nov 2020 17:22:55 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/hideandseek/</guid>
+      <description>This is a really fun video where an AI is given a version of the game of hide and seek and each team has to learn ways to win - either by finding the other team or by not being found.
+Over time they develop and adapt to each others strategies including having to work as a team to win. They also find ways to break the expected rules including finding actual issues with the modelling of the environment.</description>
+    </item>
     
     <item>
       <title>Questions to ask yourself before you buy</title>
