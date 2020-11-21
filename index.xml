@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Thu, 12 Nov 2020 17:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 11:44:37 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,16 @@
       <guid>https://ilearnt.com/about/</guid>
       <description>The posts on this site are mainly me capturing random thoughts or things that I find interesting and have learnt something from &amp;hellip; hence the name of the site.
 Maybe, if I am lucky, you will learn something from one of the posts on this site as well.</description>
+    </item>
+    
+    <item>
+      <title>Openness, discussions and success</title>
+      <link>https://ilearnt.com/post/measuringsuccess/</link>
+      <pubDate>Sun, 15 Nov 2020 11:44:37 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/measuringsuccess/</guid>
+      <description>I work very closely with two colleagues - and have done so for a number of years. Together we have experienced some serious ups and downs in the company we work for and also personally. We have each reached a point where we were close to leaving; we have each had something happen in our lives where the others have supported us.
+We used to do this via a WhatsApp group called &amp;ldquo;Accountabilabuddies&amp;rdquo; where we would not be afraid to commit to things and call each other out.</description>
     </item>
     
     <item>
