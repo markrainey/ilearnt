@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright 2020, Mark Rainey - All rights reserved</copyright>
-    <lastBuildDate>Sat, 21 Nov 2020 17:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Dec 2020 15:53:48 +0000</lastBuildDate>
     
 	<atom:link href="https://ilearnt.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,15 @@
       <guid>https://ilearnt.com/about/</guid>
       <description>The posts on this site are mainly me capturing random thoughts or things that I find interesting and have learnt something from &amp;hellip; hence the name of the site.
 Maybe, if I am lucky, you will learn something from one of the posts on this site as well.</description>
+    </item>
+    
+    <item>
+      <title>How to find a missing Sonos</title>
+      <link>https://ilearnt.com/post/findingamissingsonos/</link>
+      <pubDate>Sat, 19 Dec 2020 15:53:48 +0000</pubDate>
+      
+      <guid>https://ilearnt.com/post/findingamissingsonos/</guid>
+      <description>We recently purchased a Sonos Beam and hooked it up to 2 Sonos Play Ones we already had. It works really well and we are really pleased with it. We expected to mostly use it with the TV but have found ourselves using it more and more to play music. However every few days the Sonos app seems to lose the setup. The TV still works with it but the application does not show the system - this is very frustrating.</description>
     </item>
     
     <item>
